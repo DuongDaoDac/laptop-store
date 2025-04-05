@@ -204,7 +204,7 @@
                     <a href="#">Xem chi tiết</a>
                 </div>
                 <div class="product-item">
-                    <img src="https://vn.store.asus.com/media/catalog/product/cache/74e490e088db727ef90851ac50e1fa20/f/a/fa506nc-hn011w.jpg"="Laptop Asus 2">
+                    <img src="https://vn.store.asus.com/media/catalog/product/cache/74e490e088db727ef90851ac50e1fa20/f/a/fa506nc-hn011w.jpg" alt="Laptop Asus 2">
                     <h3>Laptop Asus TUF Gaming A15 FA506NCR R7 7435HS/16GB/512GB/4GB RTX3050/144Hz/Win11 (HN097W)</h3>
                     <p class="price">20.000.000 VNĐ</p>
                     <a href="#">Xem chi tiết</a>
